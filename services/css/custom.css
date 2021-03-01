@@ -1,0 +1,42 @@
+
+.navbar-brand{
+   font-family: 'Open Sans', sans-serif;
+   font-size: 16px;
+   font-weight:bold;
+   color: red;
+}
+.font-italic{
+    font-size:20px;
+    font-weight:10px;
+   ;
+}
+.navbar-nav .nav-item
+{
+    color:#2b542c;
+}
+.navbar-nav .nav-item a:hover
+{
+    color:#843534;
+}
+.back-image
+{
+    min-height:70vh;
+    background-size:cover;
+    background-position:center;
+    margin-top:0px;
+    padding-top:0px;
+}
+.fi-color a.hover
+{
+    color:#c934eb;
+}
+
+@media only screen and (max-width:600px)
+{
+    .myclass
+    {
+        margin-top: 350px;
+        margin-left: 200px;
+        text-align: center;
+    }
+}
